@@ -2,3 +2,4 @@
 OBLIG 0 (VERSJONSKONTROLL)
 g
 GNU nano 6.2
+git version 2.34.1
