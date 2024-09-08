@@ -2,3 +2,4 @@
 OBLIG 0 (VERSJONSKONTROLL)
 g
 GNU nano 6.2
+Storm300
